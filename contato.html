@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+	<html lang="pt-br">
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/normalize">
+		<meta charset="utf-8">
+		<title>Home Company name</title>
+		<link rel="stylesheet" type="text/css" href="css/contato.css">
+	</head>
+<body>
+	<div class="navbar">
+			<img src="imagens/logo.png" class="logo">
+			<a href="home.html">Home</a>
+			<a href="serviços.html">Serviços</a>
+			<a href="sobrenos.html">Sobre nós</a>
+			<a href="contato.html"> Contato</a>
+	</div>	
+	<div class="formulario">
+		<h1>Marque uma reunião:</h1>
+		<p>Nome:</p><br><input type="text" name="nome"><br>
+		<p>Email:</p><br><input type="email" autocomplete="on" name="email" required><br>
+		<p>Como nos conheceu?</p><br><input name="conheceu" list="lista-conheceu"><br>
+		<datalist id="lista-conheceu">
+		<option value="Redes sociais">
+		<option value="Tv">
+		<option value="Indicação">
+		<option value="Outro">
+		</datalist><br>
+		<input class="botao" type="submit" name="btn-enviar" value="enviar">
+	</div>
+</body>
+</html>
