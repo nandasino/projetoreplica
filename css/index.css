@@ -185,6 +185,12 @@ h1{
 	float: left;
 	margin-left: 20px;
 }
+.fim{
+	margin-top: 0px;
+	width: 100%
+	height:500px;
+	background-color: gray;
+}
 .rodape{
 	position: fixed;
 	width: 100%;
