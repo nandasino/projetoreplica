@@ -1,0 +1,141 @@
+.navbar{
+	position: fixed;
+	width: 100%;
+	height: 75px;
+	background-color:#f8f9fa;
+}
+.navbar a {
+	text-decoration: none;
+	font-family:"candara";
+	margin-top: 25px;
+	float: left;
+	margin-left: 60px;
+	color: #7c7c7d;
+	font-size:21px;
+}
+.navbar a:hover{
+    color:#4a4a4b;
+}
+.logo {
+	width: 190px;
+	margin-left:10px; 
+	float:left;
+}
+body{
+	margin: 0px;
+}
+.div2{
+	width: contain;
+}
+.div3{
+	width: contain;
+}
+p{  text-align:center;
+	font-size: 10px;
+	text-align:center;
+	color: #4a4a4b;
+	font-family: "candara";
+	font-size: 17px;
+}
+#titulo{
+	text-align:center;
+	font-size: 30px;
+	text-align:center;
+	color: #4a4a4b;
+	font-family: "candara";
+}
+.div4{
+	margin-top:50px;
+	margin-left: 50px;
+	width: 100%;
+}
+.titulosservs{
+	text-align: center;
+	font-size: 25px;
+}
+.servico1{
+	float:left;
+	margin-left: 20px;
+	width:380px;
+	height: 357px;
+	border:solid 1px #4a4a4b;
+	box-shadow:  1px 5px 8px #4a4a4b;
+	transition: box-shadow 0.5s;
+}
+.servico1:hover{
+	box-shadow:  5px 10px 20px #4a4a4b;
+}
+#imagemserv1{
+	width: 380px;
+}
+.servico2{
+	float:left;
+	margin-left: 20px;
+	width:380px ;
+	height: 357px;
+	border:solid 1px #4a4a4b;
+	box-shadow:  1px 5px 8px #4a4a4b;
+	transition: box-shadow 0.5s;
+}
+.servico2:hover{
+	box-shadow:  5px 10px 20px #4a4a4b;
+}
+#imagemserv2{
+	width: 380px;
+}
+.servico3{
+	float:left;
+	margin-left: 20px;
+	width:380px ;
+	height: 357px;
+	border:solid 1px #4a4a4b;
+	box-shadow:  2px 5px 8px #4a4a4b;
+	transition: box-shadow 0.5s;
+}
+.servico3:hover{
+	box-shadow:  5px 10px 20px #4a4a4b;
+}
+#imagemserv3{
+	width: 380px;
+}
+.divcontato{
+	float: left;
+	height:350px;
+	background-color: rgba(30,33,54,0.9);
+	width:100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.divcontatofoto{
+	float: left;
+	height:350px;
+	background-image: url(../imagens/serv.jpg);
+	background-size: cover;
+	width: 100%;
+	margin-top: 20px;
+}
+.botaocontato{
+	background-color:#5dd9c0;
+	color:#ffffff;
+	font-size: 20px;
+	width: 200px;
+	height:67px;
+	border-radius: 15px;
+	border:none;
+	float: left;
+	margin-left: 38%;
+}
+.textocontato1{
+	font-size: 28px;
+}
+.textocontato2{
+	font-size: 28px;
+}
+.textocontato3{
+	font-size: 28px;
+}
+.textocontato{
+
+}
