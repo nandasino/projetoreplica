@@ -65,6 +65,11 @@ p{
 	border: solid black 1px;
 	padding: 5px;
 	padding: 20px;
+	box-shadow:  1px 5px 8px #4a4a4b;
+	transition: box-shadow 0.5s;
+}
+.card1:hover{
+	box-shadow:  5px 10px 20px #4a4a4b;
 }
 .card2{
 	float: right;
@@ -75,6 +80,11 @@ p{
 	border: solid black 1px;
 	padding: 5px;
 	padding: 20px;
+	box-shadow:  1px 5px 8px #4a4a4b;
+	transition: box-shadow 0.5s;
+}
+.card2:hover{
+	box-shadow:  5px 10px 20px #4a4a4b;
 }
 .div2{
 	margin-top: 0px;
@@ -90,6 +100,11 @@ p{
 	border: solid black 1px;
 	padding: 5px;
 	padding: 20px;
+	box-shadow:  1px 5px 8px #4a4a4b;
+	transition: box-shadow 0.5s;
+}
+.card3:hover{
+	box-shadow:  5px 10px 20px #4a4a4b;
 }
 .card4{
 	float: right;
@@ -100,6 +115,11 @@ p{
 	border: solid black 1px;
 	padding: 5px;
 	padding: 20px;
+	box-shadow:  1px 5px 8px #4a4a4b;
+	transition: box-shadow 0.5s;
+}
+.card4:hover{
+	box-shadow:  5px 10px 20px #4a4a4b;
 }
 .div3{
 	margin-top: 0px;
@@ -115,6 +135,11 @@ p{
 	border: solid black 1px;
 	padding: 5px;
 	padding: 20px;
+	box-shadow:  1px 5px 8px #4a4a4b;
+	transition: box-shadow 0.5s;
+}
+.card5:hover{
+	box-shadow:  5px 10px 20px #4a4a4b;
 }
 .card6{
 	float: right;
@@ -125,6 +150,11 @@ p{
 	border: solid black 1px;
 	padding: 5px;
 	padding: 20px;
+	box-shadow:  1px 5px 8px #4a4a4b;
+	transition: box-shadow 0.5s;
+}
+.card6:hover{
+	box-shadow:  5px 10px 20px #4a4a4b;
 }
 
 .rodape{
