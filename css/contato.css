@@ -54,3 +54,24 @@ p{
 	background-color: #5dd9c0;
 	color: white;
 }
+.informacoes{
+	float: left;
+	margin-top: 75px;
+	padding: 20px;
+	width: 400px;
+	height: 400px;
+	text-align: justify;
+}
+h2{
+	font-weight: lighter;
+	color: #7c7c7d;
+	font-size:20px;
+	font-family:"candara";
+}
+.mapa{
+	float:left;
+	margin-left: 0px;
+	margin-top: 75px;
+	width: 500px;
+	height: 400px;
+}
