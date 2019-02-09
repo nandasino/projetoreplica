@@ -1,0 +1,80 @@
+body{
+	margin: 0px;
+}
+.navbar{
+	position: fixed;
+	width: 100%;
+	height: 75px;
+	background-color:#f8f9fa;
+}
+.navbar a {
+	text-decoration: none;
+	font-family:"candara";
+	margin-top: 25px;
+	float: left;
+	margin-left: 60px;
+	color: #7c7c7d;
+	font-size:21px;
+}
+.navbar a:hover{
+    color:#4a4a4b;
+}
+.logo {
+	width: 190px;
+	margin-left:10px; 
+	float:left;
+}
+//aqui começa os seviços//
+.divmae{
+	width: 100%
+	height:1500px;
+	display: flex;
+
+}
+.imagemservicos{
+	width: 251.92px;
+	float:left;
+}
+h1{
+	text-align: center;
+	font-size: 25px;
+	margin:0px;
+	color: #4a4a4b;
+	font-family: "candara";
+
+}
+p{
+	float:left;
+	margin-left:0px;
+	text-align: justify;
+	margin-left: 20px;
+	font-size: 15px;
+	color: #4a4a4b;
+	font-family: "candara";
+}
+.texto{
+	margin-top: 0px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.card1{
+	float: left;
+	margin-top: 150px;
+	margin-left: 100px;
+	width: 490px;
+	height: 211px;
+	border: solid black 1px;
+	padding: 5px;
+	padding: 20px;
+}
+.card2{
+	float: right;
+	margin-top: 150px;
+	margin-right:100px;
+	width: 490px;
+	height: 211px;
+	border: solid black 1px;
+	padding: 5px;
+	padding: 20px;
+}
